@@ -1,0 +1,110 @@
+%%% This file has been annotated. All annotations begin with %%%
+%%%---------------------------------------------------------------------------------
+                                           %%% Problem 2 - Interpreted Fibonnaci Run 
+
+CL-USER> (comparefibonaccis)
+TAIL REC FIBONACCI 10
+Evaluation took:
+  0.000 seconds of real time
+  0.000005 seconds of total run time (0.000005 user, 0.000000 system)
+  100.00% CPU
+  6,443 processor cycles
+  0 bytes consed
+  
+FIBONACCI 10
+Evaluation took:
+  0.000 seconds of real time
+  0.000012 seconds of total run time (0.000012 user, 0.000000 system)
+  100.00% CPU
+  28,647 processor cycles
+  0 bytes consed
+  
+=======================================================
+TAIL REC FIBONACCI 15
+Evaluation took:
+  0.000 seconds of real time
+  0.000004 seconds of total run time (0.000004 user, 0.000000 system)
+  100.00% CPU
+  5,158 processor cycles
+  0 bytes consed
+  
+FIBONACCI 15
+Evaluation took:
+  0.000 seconds of real time
+  0.000101 seconds of total run time (0.000096 user, 0.000005 system)
+  100.00% CPU
+  280,875 processor cycles
+  0 bytes consed
+  
+=======================================================
+TAIL REC FIBONACCI 20
+Evaluation took:
+  0.000 seconds of real time
+  0.000004 seconds of total run time (0.000004 user, 0.000000 system)
+  100.00% CPU
+  6,332 processor cycles
+  0 bytes consed
+  
+FIBONACCI 20
+Evaluation took:
+  0.002 seconds of real time
+  0.001288 seconds of total run time (0.001216 user, 0.000072 system)
+  50.00% CPU
+  3,608,351 processor cycles
+  0 bytes consed
+  
+=======================================================
+TAIL REC FIBONACCI 25
+Evaluation took:
+  0.000 seconds of real time
+  0.000004 seconds of total run time (0.000004 user, 0.000000 system)
+  100.00% CPU
+  6,344 processor cycles
+  0 bytes consed
+  
+FIBONACCI 25
+Evaluation took:
+  0.013 seconds of real time
+  0.012552 seconds of total run time (0.012552 user, 0.000000 system)
+  100.00% CPU
+  36,964,645 processor cycles
+  0 bytes consed
+  
+=======================================================
+TAIL REC FIBONACCI 30
+Evaluation took:
+  0.000 seconds of real time
+  0.000005 seconds of total run time (0.000005 user, 0.000000 system)
+  100.00% CPU
+  7,093 processor cycles
+  0 bytes consed
+  
+FIBONACCI 30
+Evaluation took:
+  0.139 seconds of real time
+  0.138061 seconds of total run time (0.137916 user, 0.000145 system)
+  99.28% CPU
+  389,862,184 processor cycles
+  39,584 bytes consed
+  
+=======================================================
+TAIL REC FIBONACCI 35
+Evaluation took:
+  0.000 seconds of real time
+  0.000005 seconds of total run time (0.000004 user, 0.000001 system)
+  100.00% CPU
+  7,970 processor cycles
+  0 bytes consed
+  
+FIBONACCI 35
+Evaluation took:
+  1.535 seconds of real time
+  1.525915 seconds of total run time (1.522136 user, 0.003779 system)
+  99.41% CPU
+  4,309,032,601 processor cycles
+  46,784 bytes consed
+  
+=======================================================
+
+                                                %%% End of Interpreted Fibonnaci Run 
+%%%---------------------------------------------------------------------------------
